@@ -1,0 +1,30 @@
+{
+  "name": "fluidcss",
+  "version": "1.0.0",
+  "description": "CSS, SCSS, SASS, Mobile First, Responsive, Prefix, Reusable, Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyogn/fluidcss.git"
+  },
+  "keywords": [
+    "CSS",
+    "SCSS",
+    "SASS",
+    "Mobile",
+    "First",
+    "Responsive",
+    "Prefix",
+    "Reusable",
+    "Web"
+  ],
+  "author": "Suyog Navgale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyogn/fluidcss/issues"
+  },
+  "homepage": "https://github.com/suyogn/fluidcss#readme"
+}
