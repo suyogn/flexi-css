@@ -1,5 +1,5 @@
 {
-  "name": "fluidcss",
+  "name": "flexi-css",
   "version": "1.0.0",
   "description": "CSS, SCSS, SASS, Mobile First, Responsive, Prefix, Reusable, Web",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suyogn/fluidcss.git"
+    "url": "git+https://github.com/suyogn/flexi-css.git"
   },
   "keywords": [
     "CSS",
@@ -24,7 +24,7 @@
   "author": "Suyog Navgale",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suyogn/fluidcss/issues"
+    "url": "https://github.com/suyogn/flexi-css/issues"
   },
-  "homepage": "https://github.com/suyogn/fluidcss#readme"
+  "homepage": "https://github.com/suyogn/flexi-css#readme"
 }
