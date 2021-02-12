@@ -1,6 +1,6 @@
 {
   "name": "flexi-css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CSS, SCSS, SASS, Mobile First, Responsive, Prefix, Reusable, Web",
   "main": "index.js",
   "scripts": {
